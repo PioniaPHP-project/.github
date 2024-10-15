@@ -67,3 +67,4 @@ You can contribute to any of our repositories in this organisation. Contribution
 6. Sponsoring the team of dedicated contributors
 
 And many more ways. So, what are you waiting for?
+You can get started by reading through our [CONTRIBUTING GUIDELINES](../CONTRIBUTING.md)
