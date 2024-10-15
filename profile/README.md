@@ -55,6 +55,8 @@ You can get started with our [documentation](https://pionia.netlify.app/), espec
 
 If you meet any issues, please feel free to open an issue here on the related repository.
 
+You can also visit our [Code of Conduct guide](../CODE_OF_CONDUCT.md) to understand how we maintain transparency across our community members.
+
 # <p style="color:#0000FF;">🟡 Contribution</p>
 
 You can contribute to any of our repositories in this organisation. Contribution can be one of the following ways.
@@ -67,4 +69,4 @@ You can contribute to any of our repositories in this organisation. Contribution
 6. Sponsoring the team of dedicated contributors
 
 And many more ways. So, what are you waiting for?
-You can get started by reading through our [CONTRIBUTING GUIDELINES](../CONTRIBUTING.md)
+You can get started by reading through our [CONTRIBUTING GUIDELINES](../CONTRIBUTING.md). This guidelines will guide you through contributing to all our repositories
